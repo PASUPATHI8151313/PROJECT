@@ -1,0 +1,7 @@
+Design a modern and intuitive User Dashboard/Profile Page for a food delivery website. 
+The layout should have a clean sidebar or top navigation with options like 'Order History', 'Saved Addresses', 
+and 'Account Info'. In the main section, show recent orders in a card layout or list view, each with order date,
+ restaurant name, items, and status. Include a section for managing saved addresses with 'Edit' and 'Delete'
+  options. Below or in a tab, show account details such as name, email, phone number, and a 'Change Password' 
+  option. Use a clean layout with food-themed accents, warm colors (orange, red, cream), and user-friendly icons.
+ The overall look should be welcoming, responsive, and organized."

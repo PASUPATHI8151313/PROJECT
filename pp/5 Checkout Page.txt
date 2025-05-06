@@ -1,0 +1,6 @@
+Create a modern, clean, and intuitive checkout page for a food delivery website. 
+The page should be divided into three clear sections: 
+(1) a delivery address form with input fields for name, street address, city, zip code, and contact number; 
+(2) a payment method section with options like credit/debit card, digital wallet, and cash on delivery, each with radio buttons or icons;
+(3) an order summary panel showing selected food items with images, quantities, individual prices, total price, and a 'Place Order' button. 
+The overall color scheme should be warm and inviting, using reds, oranges, and whites, with clear call-to-action buttons and mobile-responsive layout."

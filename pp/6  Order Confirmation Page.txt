@@ -1,0 +1,7 @@
+Design a clean and user-friendly Order Confirmation Page for a food delivery website. 
+The top section should display a large checkmark or success icon with a thank-you message like 'Your order has been placed!'. 
+Below that, show the Order ID prominently. 
+Include an Estimated Delivery Time displayed clearly, such as 'Your food will arrive in 30–40 minutes'.
+Then provide a Summary of the Order section with a list of items ordered, quantities, total price, and delivery address. 
+The design should have a warm color palette (reds, greens, or yellows), a visually appealing layout, and a prominent 'Track Order' button.
+Include icons or illustrations related to food and delivery."

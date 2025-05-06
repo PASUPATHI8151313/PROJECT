@@ -1,0 +1,26 @@
+Create a modern and user-friendly Login and Signup page UI for a food delivery website. 
+The layout should feature two tabs or a toggle switch at the top labeled 'Login' and 'Sign Up'.
+On the Login tab, include input fields for email and password, a 'Forgot Password?' link, and a prominent
+'Login' button. Below that, add a horizontal divider with the text 'or continue with', followed by Google 
+and Facebook sign-in buttons with their icons. On switching to the Sign-Up tab, display fields for full name,
+email, password, confirm password, and a 'Sign Up' button. Use soft food-themed colors like warm reds, oranges, 
+and creams. Style the input fields and buttons with rounded corners and soft shadows. Optionally, 
+place a fun food-themed illustration (e.g., burger, pizza, or chef character)
+ on the side or in the background to add personality." 
+
+
+
+
+
+ or   
+
+
+
+ "Design a sleek and user-friendly Login / Signup Page for a food delivery website. 
+ The layout should include two tabs or a toggle for 'Login' and 'Sign Up'. Under the login section, 
+ provide input fields for email and password, along with a 'Forgot Password?' link. Include a bold 'Login' 
+ button. Below that, add horizontal dividers with the label 'or continue with', followed by Google and Facebook
+sign-in buttons with their respective icons. For the Sign-Up tab, show fields for full name, email, password, 
+and confirm password, with a 'Sign Up' button. Use a modern design with soft food-themed colors (reds, oranges, 
+creams), rounded input fields, and a clean, friendly look. 
+ Optional:include a fun food-related illustration on one side of the screen."
