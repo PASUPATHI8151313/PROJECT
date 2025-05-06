@@ -1,0 +1,112 @@
+                         User-Facing Pages (Customer Side)
+1  Home Page
+
+.  Hero banner, featured restaurants, top dishes, offers.
+
+2   Browse Restaurants / Menu Page
+
+.  List of restaurants or food categories
+
+.  Filters (e.g., by cuisine, rating, distance)
+
+3     Restaurant Detail Page
+
+.  Menu items with “Add to Cart” buttons
+
+.   Restaurant info (location, rating, hours)
+
+4      Cart Page
+
+. Selected items with quantity and price
+
+.  Remove/edit items
+
+.  "Proceed to Checkout" button
+
+5     Checkout Page
+
+. Delivery address form
+
+. Payment method
+
+.  Order summary
+
+6     Order Confirmation Page
+
+. Order ID
+
+.  Estimated delivery time
+
+.  Summary of order
+
+7       Login / Signup Page
+
+ .  Email/password login
+
+.  Google/Facebook sign-in (optional)
+ 
+8      User Dashboard / Profile
+
+.  Order history
+
+.  Saved addresses
+
+.  Account info
+
+9    Order Tracking Page
+
+. Live status: Preparing → Out for Delivery → Delivered
+
+10   Contact / Help / FAQ Page
+
+. Support contact
+
+. Common user questions
+
+                                  👨‍💻 Admin Pages (For Admins or Restaurant Owners)
+1 Admin Login Page
+
+2  Admin Dashboard
+
+.   Overview of sales, orders, and users
+
+3   Order Management
+
+.   View, accept, reject, or update orders
+
+4  Menu Management
+
+.  Add/edit/delete food items
+
+.  Manage prices and availability
+
+5   User Management
+
+.  View or manage customers
+
+6   Restaurant Management (for multi-restaurant platforms)
+
+.  Add/edit restaurant details
+
+.  Analytics / Reports Page
+
+.7  Sales reports, order trends, best-selling items
+
+                                     ⭐ Optional / Advanced Pages
+1  Search Results Page
+
+.  Results for a user’s search term
+
+2  Reviews & Ratings Page
+
+.  Customer feedback and ratings
+
+3 Offers / Promo Code Page
+
+.   Coupons, discounts, promo campaigns
+
+4   404 Not Found Page
+
+.  Friendly error message if page doesn't exist
+
+5   Terms & Conditions / Privacy Policy

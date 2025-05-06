@@ -1,0 +1,10 @@
+"Design a modern and user-friendly 'Restaurant Detail' page for a food delivery website.
+ The top section should feature the restaurant’s name, a high-quality cover image or banner, star rating,
+  type of cuisine, location, delivery time estimate, working hours, and a brief description.
+   Below this, display the restaurant’s full menu organized into sections
+    (e.g., Starters, Main Course, Desserts, Drinks) with each menu item shown in a card or list layout.
+     Each item should include an image, name, short description, price, and an 'Add to Cart' button. 
+     Include a fixed or floating cart icon showing the number of items added.
+      Use a clean, vibrant color scheme and clear typography.
+       The page should be responsive and optimized for both desktop and mobile views.
+        Optionally, add tabs or filters for menu categories and a section for customer reviews at the bottom."

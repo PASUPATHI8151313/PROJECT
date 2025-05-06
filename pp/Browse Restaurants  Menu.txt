@@ -1,0 +1,33 @@
+"Design a responsive 'Browse Restaurants / Menu' page for a modern food delivery website.
+ The layout should feature a clean and intuitive UI with a top header that includes a logo, navigation links, a search bar, and a login/signup button. 
+ Below the header, include filter and sort options such as Cuisine Type, Price Range, Ratings, and Delivery Time.
+ Display restaurant cards in a grid layout — each card should contain a high-quality restaurant or food image, restaurant name, cuisine type, rating (with stars), price range, estimated delivery time, and an 'Order Now' or 'View Menu' button.
+ Add a featured section at the top or side showing restaurants with special offers, new arrivals, or popular picks.
+ The design should also include a footer with links to Terms, Privacy, Help, and Social Media.
+ Use a warm, inviting color palette (reds, oranges, greens), bold typography for restaurant names, and clean card-based UI components.
+ Ensure the design is mobile-friendly with touch-optimized buttons and responsive layout."
+
+
+
+
+
+
+
+
+
+
+
+
+                                             or
+
+
+
+                                             Prompt to Create “Browse Restaurants / Menu” Page with Filters
+"Design a clean and modern 'Browse Restaurants / Menu' page for a food delivery website.
+ The page should display a list of restaurants or food categories in a grid or list layout. 
+ Each restaurant card must include an image, name, cuisine type, star rating, price range, estimated delivery time, and a 'View Menu' or 'Order Now' button.
+  Above the list, include a set of intuitive filters and sort options: Cuisine (multi-select dropdown or buttons), Rating (star-based filter), Distance (near to far), and Price Range.
+   The design should include a search bar at the top to allow users to search for dishes or restaurants.
+    Use a warm and appetizing color scheme (reds, oranges, yellows) and clean card-based UI. 
+    Make sure the design is responsive, user-friendly, and visually appealing with bold text, food imagery, and proper spacing. 
+    Optionally include category buttons (e.g., Pizza, Chinese, Vegan) with icons or thumbnails above the filters."

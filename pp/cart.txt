@@ -1,0 +1,11 @@
+Design a clean and functional 'Cart' page for a food delivery website. 
+The page should display a list of selected food items in a vertical layout.
+ Each item card must include the food name, a thumbnail image, item price, quantity selector
+  (with + / - buttons), and a remove (trash) icon.
+   Show the individual item total as well as the subtotal, delivery fee, taxes (optional), 
+   and final total cost at the bottom of the list.
+Include an editable note field for special instructions per item (optional).
+ On the right or bottom (depending on screen size), add a clearly visible 'Proceed to Checkout' button.
+The design should be user-friendly, responsive, and visually consistent with the rest of the site—using 
+a warm and appetizing color palette.
+ Optionally, include a promo code input box and estimated delivery time summary."

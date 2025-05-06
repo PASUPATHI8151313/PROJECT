@@ -1,0 +1,14 @@
+"Design a modern, engaging home page for a food delivery website. 
+The page should feature a clean, user-friendly layout with high-quality food images and a warm color palette 
+(reds, oranges, greens).
+ The header should include a logo, search bar, navigation menu, and login/signup buttons.
+  Below, add a hero section with a catchy headline like 'Order Your Favorite Meals in Minutes!' 
+  and a 'Browse Menu' CTA button. 
+  Include a location input field for users to enter their delivery address.
+   Add a section showcasing featured restaurants and popular cuisines with clickable images or cards. 
+   Include a section for current promotions or discounts like '50% Off First Order.' 
+   Add a 'How It Works' section with a simple, visual 3-step guide (Browse → Order → Enjoy). 
+   Display best-selling dishes with images in a carousel slider. 
+   Add a customer reviews section with ratings and testimonials.
+    At the bottom, include footer links to Contact Info, Social Media, and Legal Pages (Terms & Privacy). 
+    Use bold, clear typography, intuitive spacing, and mobile-responsive design principles."
