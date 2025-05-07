@@ -1,0 +1,8 @@
+Design a clean and friendly Contact / Help / FAQ Page for a food delivery website. 
+At the top, include a header with the page title 'Need Help? We're Here for You!' in bold.
+Add a support contact section featuring a phone number, email address, and live chat button with support icons.
+Below, include an FAQ section with common user questions in an accordion or expandable list format
+ (e.g., 'How do I track my order?', 'How can I cancel an order?', 'What if my food arrives late?').
+  Use icons for each category and keep the layout organized and easy to read. 
+  Use a warm color palette (oranges, yellows, creams) with friendly fonts and subtle
+   food-themed background illustrations or icons."

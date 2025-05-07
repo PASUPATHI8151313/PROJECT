@@ -1,0 +1,11 @@
+"Design a sleek and interactive Order Tracking Page for a food delivery website. 
+The top section should feature a live progress tracker with three labeled steps:
+'Preparing', 'Out for Delivery', and 'Delivered'. 
+Each step should have a circular icon and update visually (e.g., highlighted or checked) as the order
+progresses. Below or beside the tracker, include a large map area that displays live GPS tracking of the 
+delivery person, showing a route from the restaurant to the user's address. 
+The delivery person's current location should be represented by a scooter or rider icon moving along the path.
+Add a small order summary card with the order ID, restaurant name, and estimated delivery time. Use a warm,
+ inviting food-themed color palette (reds, oranges, yellows) and keep the design mobile-friendly, clean, and 
+ easy to follow. Optionally include a button labeled 'Need Help?' and a back arrow to return to
+  the main dashboard.
